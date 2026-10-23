@@ -12,3 +12,8 @@ Auf nächstes mal:
 Ich habe mich für einen „Stronghold Triangulation Calculator“ entschieden und mir dazu folgendes Video angeschaut:
 Link: https://www.youtube.com/watch?v=b5c6NZjw1rI
 Ausserdem habe ich bereits damit begonnen, einen Programmablaufplan (PAP) mit dem PAP Designer zu erstellen.
+
+## 23102026
+[x] Einen PAP mit PapDesigner erstellt, um den Ablauf des Stronghold Triangulation Calculators darzustellen.
+[x] Mit der Programmierung in C# begonnen und die ersten Eingaben und Berechnungen für den Stronghold Calculator umgesetzt.
+[x] Die IPERKA-Dokumentation erstellt und die verschiedenen Phasen meines Projekts beschrieben.
