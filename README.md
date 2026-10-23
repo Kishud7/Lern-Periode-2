@@ -14,6 +14,6 @@ Link: https://www.youtube.com/watch?v=b5c6NZjw1rI
 Ausserdem habe ich bereits damit begonnen, einen Programmablaufplan (PAP) mit dem PAP Designer zu erstellen.
 
 ## 23102026
-[X] Einen PAP mit PapDesigner erstellt, um den Ablauf des Stronghold Triangulation Calculators darzustellen.
-[X] Mit der Programmierung in C# begonnen und die ersten Eingaben und Berechnungen für den Stronghold Calculator umgesetzt.
-[X] Die IPERKA-Dokumentation erstellt und die verschiedenen Phasen meines Projekts beschrieben.
+- [X] Einen PAP mit PapDesigner erstellt, um den Ablauf des Stronghold Triangulation Calculators darzustellen.
+- [X] Mit der Programmierung in C# begonnen und die ersten Eingaben und Berechnungen für den Stronghold Calculator umgesetzt.
+- [X] Die IPERKA-Dokumentation erstellt und die verschiedenen Phasen meines Projekts beschrieben.
