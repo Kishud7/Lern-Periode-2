@@ -17,3 +17,8 @@ Ausserdem habe ich bereits damit begonnen, einen Programmablaufplan (PAP) mit de
 - [X] Einen PAP mit PapDesigner erstellt, um den Ablauf des Stronghold Triangulation Calculators darzustellen.
 - [X] Mit der Programmierung in C# begonnen und die ersten Eingaben und Berechnungen für den Stronghold Calculator umgesetzt.
 - [X] Die IPERKA-Dokumentation erstellt und die verschiedenen Phasen meines Projekts beschrieben.
+
+## Auf 30102026
+- [] Die eingegebenen Koordinaten und Winkel der beiden Positionen berechnen.
+- [] In Minecraft austesten.
+- [] Die Darstellung des Programms schöner und übersichtlicher gestalten.
