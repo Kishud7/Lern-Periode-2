@@ -1,8 +1,14 @@
-﻿
-using System;
+﻿Console.WriteLine("------------------------------------------------");
+Console.WriteLine("Willkommen zum Stronghold Calculator von Kishud7");
+Console.WriteLine("------------------------------------------------");
 
-Console.WriteLine("Wilkommen zum Stronghold Calculator von Kishud7");
-Console.WriteLine("------------------------------------------");
+Console.WriteLine("");
+Console.WriteLine("Anleitung:");
+Console.WriteLine("Bitte wirf mindestens 2 Enderaugen an verschiedenen Orten.");
+Console.WriteLine("Notiere die X- und Z-Koordinaten und den Blickwinkel (FN + F3).");
+Console.WriteLine("Gib danach die Werte hier ein.");
+Console.WriteLine("Benutze den Winkel aus der F3-Anzeige (Yaw).");
+Console.WriteLine("");
 
 // Erste Position
 Console.WriteLine("Erste Position");
@@ -46,8 +52,10 @@ double nenner = dx1 * dz2 - dz1 * dx2;
 // Überprüfen, ob die Berechnung möglich ist
 if (Math.Abs(nenner) < 0.000001)
 {
+    Console.WriteLine("");
     Console.WriteLine("Die Winkel sind zu ähnlich.");
     Console.WriteLine("Stronghold konnte nicht berechnet werden.");
+    Console.WriteLine("Bitte versuche es mit anderen Positionen.");
 }
 else
 {
@@ -59,4 +67,49 @@ else
     double strongholdX = x1 + t * dx1;
     double strongholdZ = z1 + t * dz1;
 
- 
+    // Überprüfen, ob das Stronghold vor uns liegt
+    if (t < 0 || u < 0)
+    {
+        Console.WriteLine("");
+        Console.WriteLine("Fehler bei der Berechnung!");
+        Console.WriteLine("Die Blickrichtungen zeigen nicht zum gleichen Ziel.");
+        Console.WriteLine("Bitte überprüfe deine Eingaben.");
+    }
+    else
+    {
+        // Ergebnis anzeigen
+        Console.WriteLine("");
+        Console.WriteLine("------------------------------------------------");
+        Console.WriteLine("           STRONGHOLD GEFUNDEN!");
+        Console.WriteLine("------------------------------------------------");
+
+        Console.WriteLine("");
+        Console.WriteLine("Stronghold X: " + Math.Round(strongholdX));
+        Console.WriteLine("Stronghold Z: " + Math.Round(strongholdZ));
+
+        // Entfernung von der zweiten Position
+        double unterschiedX = strongholdX - x2;
+        double unterschiedZ = strongholdZ - z2;
+
+        double entfernung = Math.Sqrt(
+            unterschiedX * unterschiedX +
+            unterschiedZ * unterschiedZ
+        );
+
+        Console.WriteLine("");
+        Console.WriteLine("Entfernung von der zweiten Position:");
+        Console.WriteLine(Math.Round(entfernung) + " Blöcke");
+
+        Console.WriteLine("");
+        Console.WriteLine("Achtung: Die Koordinaten sind nur ungefähr.");
+        Console.WriteLine("Viel Erfolg beim Finden des Strongholds!");
+    }
+}
+
+Console.WriteLine("");
+Console.WriteLine("------------------------------------------------");
+Console.WriteLine("Drücke Enter zum Beenden.");
+Console.WriteLine("------------------------------------------------");
+Console.ReadLine();
+
+
