@@ -55,3 +55,10 @@ Die berechneten X- und Z-Koordinaten sowie die Entfernung zum Stronghold werden 
 - [ ] Feedback zu meinem Programm einholen und mögliche Verbesserungsvorschläge umsetzen.
 - [ ] Die letzten Anpassungen vornehmen und das Projekt abschliessen.
 
+## 06.11.2026 Hausaufgaben:
+- [x] Heute habe ich meinen Stronghold Calculator in Minecraft Java Edition getestet und überprüft, ob die berechneten Koordinaten stimmen
+- [x] Ich habe die Fehler beim Testen verbessert, indem ich ein Spyglass verwendet habe, um die Blickwinkel genauer zu bestimmen.
+
+- [x] Ich habe Feedback von einem Kollegen eingeholt. Er hat meinen Calculator ebenfalls getestet und bestätigt, dass er bei ihm funktioniert hat.
+
+- [x] Ich habe die letzten Anpassungen vorgenommen und mein Projekt erfolgreich abgeschlossen --> Test Word Datei.
