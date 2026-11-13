@@ -1,0 +1,79 @@
+Wind Charge
+Recovery Compass
+Goat Horn
+Ocean Monument Map
+Woodland Mansion Map
+Buried Trial Chambers Map
+Trial Key
+Ominous Trial Key
+Mace
+Trident
+Turtle Shell
+Copper Horse Armor
+Iron Horse Armor
+Diamond Horse Armor
+Golden Horse Armor
+Totem of Undying
+Copper Nautilus Armor
+Iron Nautilus Armor
+Diamond Nautilus Armor
+Golden Nautilus Armor
+Enchanted Golden Apple
+Potion of Decay (0:40)
+Splash Potion of Decay (0:40)
+Lingering Potion of Decay (0:10)
+Ominous Bottle
+Ominous Bottle (II)
+Ominous Bottle (III)
+Ominous Bottle (IV)
+Ominous Bottle (V)
+Protection
+Fire Protection
+Feather Falling
+Blast Protection
+Projectile Protection
+Respiration
+Aqua Affinity
+Thorns
+Depth Strider
+Frost Walker
+Curse of Binding
+Swift Sneak
+Sharpness
+Smite
+Bane of Arthropods
+Knockback
+Fire Aspect
+Looting
+Efficiency
+Silk Touch
+Unbreaking
+Fortune
+Power
+Punch
+Flame
+Infinity
+Luck of the Sea
+Lure
+Loyalty
+Impaling
+Riptide
+Channeling
+Multishot
+Quick Charge
+Piercing
+Mending
+Lunge
+Curse of Vanishing
+Density
+Breach
+Wind Burst
+Resin Clump
+Resin Brick
+Prismarine Shard
+Amethyst Shard
+Prismarine Crystals
+Nautilus Shell
+Heart of the Sea
+Turtle Scute
+Phantom Membrane

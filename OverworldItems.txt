@@ -1,0 +1,418 @@
+Wooden Shovel
+Wooden Pickaxe
+Wooden Axe
+Wooden Hoe
+Stone Shovel
+Stone Pickaxe
+Stone Axe
+Stone Hoe
+Copper Shovel
+Copper Pickaxe
+Copper Axe
+Copper Hoe
+Iron Shovel
+Iron Pickaxe
+Iron Axe
+Iron Hoe
+Fishing Rod
+Flint and Steel
+Shears
+Compass
+Empty Map
+Brush
+Name Tag
+Bundle
+White Bundle
+Light Gray Bundle
+Red Bundle
+Orange Bundle
+Yellow Bundle
+Magenta Bundle
+Pink Bundle
+Wooden Sword
+Stone Sword
+Copper Sword
+Iron Sword
+Wooden Spear
+Stone Spear
+Copper Spear
+Iron Spear
+Arrow
+Shield
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Apple
+Raw Chicken
+Cooked Chicken
+Raw Porkchop
+Cooked Porkchop
+Raw Beef
+Steak
+Raw Mutton
+Cooked Mutton
+Raw Cod
+Cooked Cod
+Raw Salmon
+Cooked Salmon
+Tropical Fish
+Dried Kelp
+Rotten Flesh
+Glass Bottle
+Water Bottle
+Stick
+Bone Meal
+Lapis Lazuli
+Bone
+Egg
+Sugarcane
+Sugar
+Spider Eye
+Coal
+Charcoal
+Iron Nugget
+Raw Iron
+Iron Ingot
+Raw Copper
+Copper Nugget
+Copper Ingot
+Clay Ball
+Brick
+String
+Feather
+Flint
+Gunpowder
+Leather
+Paper
+Book
+White Dye
+Light Gray Dye
+Gray Dye
+Red Dye
+Orange Dye
+Yellow Dye
+Pink Dye
+Bowl
+Bucket
+Milk Bucket
+Water Bucket
+Lava Bucket
+Oak Boat
+Spruce Boat
+Birch Boat
+Oak Boat with Chest
+Spruce Boat with Chest
+Birch Boat with Chest
+Minecart
+Minecart with Chest
+Firework Rocket
+Firework Star
+Diamond Shovel
+Diamond Pickaxe
+Diamond Axe
+Diamond Hoe
+Golden Shovel
+Golden Pickaxe
+Golden Axe
+Golden Hoe
+Carrot on a Stick
+Fire Charge
+Lead
+Clock
+Buried Treasure Map
+Saddle
+Spyglass
+Book and Quill
+White Harness
+Light Gray Harness
+Gray Harness
+Black Harness
+Brown Harness
+Red Harness
+Orange Harness
+Yellow Harness
+Lime Harness
+Green Harness
+Cyan Harness
+Light Blue Harness
+Blue Harness
+Purple Harness
+Magenta Harness
+Pink Harness
+Gray Bundle
+Black Bundle
+Brown Bundle
+Lime Bundle
+Green Bundle
+Cyan Bundle
+Light Blue Bundle
+Blue Bundle
+Purple Bundle
+Diamond Sword
+Golden Sword
+Bow
+Crossbow
+Diamond Spear
+Golden Spear
+Leather Cap
+Leather Tunic
+Leather Pants
+Leather Boots
+Chainmail Helmet
+Chainmail Chestplate
+Chainmail Leggings
+Chainmail Boots
+Iron Helmet
+Iron Chestplate
+Iron Leggings
+Iron Boots
+Diamond Helmet
+Diamond Chestplate
+Diamond Leggings
+Diamond Boots
+Golden Helmet
+Golden Chestplate
+Golden Leggings
+Golden Boots
+Leather Horse Armor
+Wolf Armor
+Beetroot
+Potato
+Baked Potato
+Poisonous Potato
+Carrot
+Golden Carrot
+Golden Apple
+Melon Slice
+Glistering Melon Slice
+Sweet Berries
+Glow Berries
+Raw Rabbit
+Cooked Rabbit
+Bread
+Cookie
+Pumpkin Pie
+Cake
+Mushroom Stew
+Suspicious Stew
+Beetroot Stew
+Rabbit Stew
+Honey Bottle
+Bottle o' Enchanting
+Wheat
+Cocoa Beans
+Pufferfish (Item)
+Brown Mushroom
+Red Mushroom
+Brown Egg
+Blue Egg
+Diamond
+Gold Nugget
+Raw Gold
+Gold Ingot
+Emerald
+Armadillo Scute
+Rabbit Hide
+Rabbit's Foot
+Honeycomb
+Fermented Spider Eye
+Slime Ball
+Snow Ball
+Ender Pearl
+Minecart with Hopper
+Minecart with TNT
+Lime Dye
+Blue Dye
+Black Dye
+Brown Dye
+Green Dye
+Cyan Dye
+Glow Ink Sac
+Bucket of Pufferfish
+Bucket of Salmon
+Bucket of Cod
+Bucket of Tropical Fish
+Bucket of Axolotl
+Bucket of Tadpole
+Powder Snow Bucket
+Jungle Boat
+Acacia Boat
+Cherry Boat
+Mangrove Boat
+Bamboo Raft
+Jungle Boat with Chest
+Acacia Boat with Chest
+Cherry Boat with Chest
+Mangrove Boat with Chest
+Bamboo Raft with Chest
+Wind Charge
+Recovery Compass
+Goat Horn
+Ocean Monument Map
+Woodland Mansion Map
+Buried Trial Chambers Map
+Trial Key
+Ominous Trial Key
+Mace
+Trident
+Turtle Shell
+Copper Horse Armor
+Iron Horse Armor
+Diamond Horse Armor
+Golden Horse Armor
+Totem of Undying
+Copper Nautilus Armor
+Iron Nautilus Armor
+Diamond Nautilus Armor
+Golden Nautilus Armor
+Enchanted Golden Apple
+Potion of Decay (0:40)
+Splash Potion of Decay (0:40)
+Lingering Potion of Decay (0:10)
+Ominous Bottle
+Ominous Bottle (II)
+Ominous Bottle (III)
+Ominous Bottle (IV)
+Ominous Bottle (V)
+Protection
+Fire Protection
+Feather Falling
+Blast Protection
+Projectile Protection
+Respiration
+Aqua Affinity
+Thorns
+Depth Strider
+Frost Walker
+Curse of Binding
+Swift Sneak
+Sharpness
+Smite
+Bane of Arthropods
+Knockback
+Fire Aspect
+Looting
+Efficiency
+Silk Touch
+Unbreaking
+Fortune
+Power
+Punch
+Flame
+Infinity
+Luck of the Sea
+Lure
+Loyalty
+Impaling
+Riptide
+Channeling
+Multishot
+Quick Charge
+Piercing
+Mending
+Lunge
+Curse of Vanishing
+Density
+Breach
+Wind Burst
+Resin Clump
+Resin Brick
+Prismarine Shard
+Amethyst Shard
+Prismarine Crystals
+Nautilus Shell
+Heart of the Sea
+Turtle Scute
+Phantom Membrane
+Breeze Rod
+Heavy Core
+Echo Shard
+Flower Charge Banner Pattern
+Creeper Charge Banner Pattern
+Field Masoned Banner Pattern
+Bordure Indented Banner Pattern
+Turtle Egg
+Sniffer Egg
+Frogspawn
+Music Disc Bounce
+C418 - 11
+C418 - 13
+Samuel Åberg - 5
+C418 - blocks
+C418 - cat
+C418 - chirp
+Lena Raine - Creator
+Lena Raine - Creator (Music Box)
+C418 - far
+Hyper Potions - Lava Chicken
+C418 - mall
+C418 - mellohi
+Lena Raine - otherside
+Aaron Cherof - Precipice
+Aaron Cherof - Relic
+C418 - stal
+C418 - strad
+Amos Roddy - Tears
+C418 - wait
+C418 - ward
+Disc Fragment
+Zombie Head
+Creeper Head
+Skeleton Skull
+Dragon Head
+Piglin Head
+Pale Oak Boat
+Dark Oak Boat
+Pale Oak Boat with Chest
+Dark Oak Boat with Chest
+Skull Charge Banner Pattern
+Thing Banner Pattern
+Snout Banner Pattern
+Globe Banner Pattern
+Flow Banner Pattern
+Guster Banner Pattern
+Angler Pottery Sherd
+Archer Pottery Sherd
+Arms Up Pottery Sherd
+Blade Pottery Sherd
+Brewer Pottery Sherd
+Burn Pottery Sherd
+Danger Pottery Sherd
+Explorer Pottery Sherd
+Flow Pottery Sherd
+Friend Pottery Sherd
+Guster Pottery Sherd
+Heart Pottery Sherd
+Heartbreak Pottery Sherd
+Howl Pottery Sherd
+Miner Pottery Sherd
+Mourner Pottery Sherd
+Plenty Pottery Sherd
+Prize Pottery Sherd
+Scrape Pottery Sherd
+Sheaf Pottery Sherd
+Shelter Pottery Sherd
+Skull Pottery Sherd
+Snort Pottery Sherd
+Sentry Armor Trim
+Dune Armor Trim
+Coast Armor Trim
+Wild Armor Trim
+Ward Armor Trim
+Vex Armor Trim
+Tide Armor Trim
+Wayfinder Armor Trim
+Shaper Armor Trim
+Silence Armor Trim
+Raiser Armor Trim
+Host Armor Trim
+Flow Armor Trim
+Bolt Armor Trim
+Snowy Village Map
+Taiga Village Map
+Plains Village Map
+Savanna Village Map
+Desert Village Map
+Jungle Pyramid Map
+Swamp Hut Map

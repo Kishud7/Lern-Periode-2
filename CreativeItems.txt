@@ -1,0 +1,85 @@
+Player Head
+Allay Spawn Egg
+Armadillo Spawn Egg
+Axolotl Spawn Egg
+Bat Spawn Egg
+Bee Spawn Egg
+Blaze Spawn Egg
+Bogged Spawn Egg
+Breeze Spawn Egg
+Camel Husk Spawn Egg
+Camel Spawn Egg
+Cat Spawn Egg
+Cave Spider Spawn Egg
+Chicken Spawn Egg
+Cod Spawn Egg
+Copper Golem Spawn Egg
+Cow Spawn Egg
+Creaking Spawn Egg
+Creeper Spawn Egg
+Dolphin Spawn Egg
+Donkey Spawn Egg
+Drowned Spawn Egg
+Elder Guardian Spawn Egg
+Enderman Spawn Egg
+Endermite Spawn Egg
+Evoker Spawn Egg
+Fox Spawn Egg
+Frog Spawn Egg
+Ghast Spawn Egg
+Glow Squid Spawn Egg
+Goat Spawn Egg
+Guardian Spawn Egg
+Happy Ghast Spawn Egg
+Hoglin Spawn Egg
+Horse Spawn Egg
+Husk Spawn Egg
+Iron Golem Spawn Egg
+Magma Cube Spawn Egg
+Mooshroom Spawn Egg
+Mule Spawn Egg
+Nautilus Spawn Egg
+Ocelot Spawn Egg
+Parched Spawn Egg
+Parrot Spawn Egg
+Phantom Spawn Egg
+Pig Spawn Egg
+Piglin Brute Spawn Egg
+Piglin Spawn Egg
+Pillager Spawn Egg
+Polar Bear Spawn Egg
+Pufferfish Spawn Egg
+Rabbit Spawn Egg
+Ravager Spawn Egg
+Salmon Spawn Egg
+Sheep Spawn Egg
+Shulker Spawn Egg
+Silverfish Spawn Egg
+Skeleton Horse Spawn Egg
+Skeleton Spawn Egg
+Slime Spawn Egg
+Sniffer Spawn Egg
+Snow Golem Spawn Egg
+Spider Spawn Egg
+Squid Spawn Egg
+Stray Spawn Egg
+Strider Spawn Egg
+Sulfur Cube Spawn Egg
+Tadpole Spawn Egg
+Trader Llama Spawn Egg
+Tropical Fish Spawn Egg
+Turtle Spawn Egg
+Vex Spawn Egg
+Villager Spawn Egg
+Vindicator Spawn Egg
+Wandering Trader Spawn Egg
+Warden Spawn Egg
+Witch Spawn Egg
+Wither Skeleton Spawn Egg
+Wolf Spawn Egg
+Zoglin Spawn Egg
+Zombie Horse Spawn Egg
+Zombie Nautilus Spawn Egg
+Zombified Piglin Spawn Egg
+Zombie Spawn Egg
+Zombie Villager Spawn Egg

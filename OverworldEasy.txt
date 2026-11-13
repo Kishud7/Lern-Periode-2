@@ -1,0 +1,87 @@
+Wooden Shovel
+Wooden Pickaxe
+Wooden Axe
+Wooden Hoe
+Stone Shovel
+Stone Pickaxe
+Stone Axe
+Stone Hoe
+Copper Shovel
+Copper Pickaxe
+Copper Axe
+Copper Hoe
+Iron Shovel
+Iron Pickaxe
+Iron Axe
+Iron Hoe
+Fishing Rod
+Flint and Steel
+Shears
+Compass
+Empty Map
+Brush
+Name Tag
+Bundle
+White Bundle
+Light Gray Bundle
+Red Bundle
+Orange Bundle
+Yellow Bundle
+Magenta Bundle
+Pink Bundle
+Wooden Sword
+Stone Sword
+Copper Sword
+Iron Sword
+Wooden Spear
+Stone Spear
+Copper Spear
+Iron Spear
+Arrow
+Shield
+Copper Helmet
+Copper Chestplate
+Copper Leggings
+Copper Boots
+Apple
+Raw Chicken
+Cooked Chicken
+Raw Porkchop
+Cooked Porkchop
+Raw Beef
+Steak
+Raw Mutton
+Cooked Mutton
+Raw Cod
+Cooked Cod
+Raw Salmon
+Cooked Salmon
+Tropical Fish
+Dried Kelp
+Rotten Flesh
+Glass Bottle
+Water Bottle
+Stick
+Bone Meal
+Lapis Lazuli
+Bone
+Egg
+Sugarcane
+Sugar
+Spider Eye
+Coal
+Charcoal
+Iron Nugget
+Raw Iron
+Iron Ingot
+Raw Copper
+Copper Nugget
+Copper Ingot
+Clay Ball
+Brick
+String
+Feather
+Flint
+Gunpowder
+Leather
+

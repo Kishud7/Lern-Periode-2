@@ -1,0 +1,105 @@
+Diamond Shovel
+Diamond Pickaxe
+Diamond Axe
+Diamond Hoe
+Golden Shovel
+Golden Pickaxe
+Golden Axe
+Golden Hoe
+Carrot on a Stick
+Fire Charge
+Lead
+Clock
+Buried Treasure Map
+Saddle
+Spyglass
+Book and Quill
+White Harness
+Light Gray Harness
+Gray Harness
+Black Harness
+Brown Harness
+Red Harness
+Orange Harness
+Yellow Harness
+Lime Harness
+Green Harness
+Cyan Harness
+Light Blue Harness
+Blue Harness
+Purple Harness
+Magenta Harness
+Pink Harness
+Gray Bundle
+Black Bundle
+Brown Bundle
+Lime Bundle
+Green Bundle
+Cyan Bundle
+Light Blue Bundle
+Blue Bundle
+Purple Bundle
+Diamond Sword
+Golden Sword
+Bow
+Crossbow
+Diamond Spear
+Golden Spear
+Leather Cap
+Leather Tunic
+Leather Pants
+Leather Boots
+Chainmail Helmet
+Chainmail Chestplate
+Chainmail Leggings
+Chainmail Boots
+Iron Helmet
+Iron Chestplate
+Iron Leggings
+Iron Boots
+Diamond Helmet
+Diamond Chestplate
+Diamond Leggings
+Diamond Boots
+Golden Helmet
+Golden Chestplate
+Golden Leggings
+Golden Boots
+Leather Horse Armor
+Wolf Armor
+Beetroot
+Potato
+Baked Potato
+Poisonous Potato
+Carrot
+Golden Carrot
+Golden Apple
+Melon Slice
+Glistering Melon Slice
+Sweet Berries
+Glow Berries
+Raw Rabbit
+Cooked Rabbit
+Bread
+Cookie
+Pumpkin Pie
+Cake
+Mushroom Stew
+Suspicious Stew
+Beetroot Stew
+Rabbit Stew
+Honey Bottle
+Bottle o' Enchanting
+Wheat
+Cocoa Beans
+Pufferfish (Item)
+Brown Mushroom
+Red Mushroom
+Brown Egg
+Blue Egg
+Diamond
+Gold Nugget
+Raw Gold
+Gold Ingot
+Emerald
+Armadillo Scute
