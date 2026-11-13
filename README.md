@@ -62,3 +62,23 @@ Die berechneten X- und Z-Koordinaten sowie die Entfernung zum Stronghold werden 
 - [x] Ich habe Feedback von einem Kollegen eingeholt. Er hat meinen Calculator ebenfalls getestet und bestätigt, dass er bei ihm funktioniert hat.
 
 - [x] Ich habe die letzten Anpassungen vorgenommen und mein Projekt erfolgreich abgeschlossen --> Test Word Datei.
+
+## 13.11.2026
+Mein nächstes Projekt ist ein Minecraft Random Item Generator. Ich habe bereits in meiner Freizeit damit angefangen.
+
+Das Ziel ist es, einen Randomizer zu entwickeln, der alle Minecraft-Items aus den drei Dimensionen (Overworld, Nether und End) enthält. Ausserdem soll es drei Schwierigkeitsstufen geben: Easy, Medium und Hard.
+
+- [x] Heute habe ich meine .txt-Datei erweitert und neue Items aus dem Creative-Modus hinzugefügt.
+
+- [x] Heute habe ich noch eine Funktion eingebaut, die zufällige Items aus der Overworld auswählt bevor ich die Schwierigskeitstufe auswähle.
+
+## Auf 20.11.2026
+- [ ] Ich möchte an meiner .txt-Datei weithin Items hinzufügen.
+
+- [ ] Ich möchte die Nether-Easy-Items hinzufügen.
+
+- [ ] Ich möchte die Nether-Medium-Items hinzufügen.
+
+- [ ] Ich möchte die Nether-Hard-Items hinzufügen.
+
+- [ ] Ich möchte die Nether-Random-Items hinzufügen.
