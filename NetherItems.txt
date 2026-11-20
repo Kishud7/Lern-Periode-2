@@ -199,5 +199,317 @@ Netherite Scrap
 Netherite Ingot
 Nether Quartz
 Nether Brick
+Blaze Rod
+Blaze Powder
+Magma Cream
+Ghast Tear
+Nether Star
+Lena Raine - Pigstep
+Wither Skeleton Skull
+Netherite Upgrade
+Snout Armor Trim
+Rib Armor Trim
 
+Netherrack
+Soul Sand
+Soul Soil
+Gravel
+Blackstone
+Gilded Blackstone
+Basalt
+Polished Basalt
+Smooth Basalt
+Magma Block
+Glowstone
+Glowstone Dust
+Bone Block
+Nether Gold Ore
+Nether Quartz Ore
+Ancient Debris
+Netherite Scrap
+Netherite Ingot
+Netherite Block
+Gold Nugget
+Gold Ingot
+Gold Block
+Iron Nugget
+Iron Ingot
+Iron Block
+Diamond
+Coal
+Charcoal
+Nether Quartz
+Quartz Block
+Smooth Quartz Block
+Quartz Bricks
+Quartz Pillar
+Chiseled Quartz Block
+Quartz Slab
+Quartz Stairs
+Smooth Quartz Slab
+Smooth Quartz Stairs
+Crimson Nylium
+Warped Nylium
+Crimson Stem
+Warped Stem
+Stripped Crimson Stem
+Stripped Warped Stem
+Crimson Hyphae
+Warped Hyphae
+Stripped Crimson Hyphae
+Stripped Warped Hyphae
+Crimson Planks
+Warped Planks
+Crimson Slab
+Warped Slab
+Crimson Stairs
+Warped Stairs
+Crimson Fence
+Warped Fence
+Crimson Fence Gate
+Warped Fence Gate
+Crimson Door
+Warped Door
+Crimson Trapdoor
+Warped Trapdoor
+Crimson Button
+Warped Button
+Crimson Pressure Plate
+Warped Pressure Plate
+Crimson Sign
+Warped Sign
+Crimson Hanging Sign
+Warped Hanging Sign
+Crimson Roots
+Warped Roots
+Crimson Fungus
+Warped Fungus
+Nether Sprouts
+Weeping Vines
+Twisting Vines
+Nether Wart
+Nether Wart Block
+Warped Wart Block
+Shroomlight
+Red Mushroom
+Brown Mushroom
+Mushroom Stem
+Red Mushroom Block
+Brown Mushroom Block
+Nether Bricks
+Nether Brick
+Red Nether Bricks
+Cracked Nether Bricks
+Chiseled Nether Bricks
+Nether Brick Slab
+Nether Brick Stairs
+Nether Brick Wall
+Nether Brick Fence
+Red Nether Brick Slab
+Red Nether Brick Stairs
+Red Nether Brick Wall
+Blackstone Slab
+Blackstone Stairs
+Blackstone Wall
+Polished Blackstone
+Polished Blackstone Slab
+Polished Blackstone Stairs
+Polished Blackstone Wall
+Polished Blackstone Bricks
+Polished Blackstone Brick Slab
+Polished Blackstone Brick Stairs
+Polished Blackstone Brick Wall
+Cracked Polished Blackstone Bricks
+Chiseled Polished Blackstone
+Polished Blackstone Button
+Polished Blackstone Pressure Plate
+Basalt
+Bone
+Bone Meal
+Arrow
+Spectral Arrow
+Bow
+Crossbow
+String
+Leather
+Rotten Flesh
+Raw Porkchop
+Cooked Porkchop
+Raw Chicken
+Cooked Chicken
+Feather
+Blaze Rod
+Blaze Powder
+Ghast Tear
+Gunpowder
+Magma Cream
+Ender Pearl
+Eye of Ender
+Wither Skeleton Skull
+Nether Star
+Obsidian
+Crying Obsidian
+Flint
+Flint and Steel
+Fire Charge
+Saddle
+Golden Apple
+Enchanted Golden Apple
+Golden Carrot
+Glistering Melon Slice
+Glass
+Glass Bottle
+Water Bottle
+Potion of Fire Resistance
+Splash Potion of Fire Resistance
+Enchanted Book
+Book
+Paper
+Soul Speed Enchanted Book
+Golden Sword
+Golden Pickaxe
+Golden Axe
+Golden Shovel
+Golden Hoe
+Golden Helmet
+Golden Chestplate
+Golden Leggings
+Golden Boots
+Iron Sword
+Iron Pickaxe
+Iron Axe
+Iron Shovel
+Iron Hoe
+Iron Helmet
+Iron Chestplate
+Iron Leggings
+Iron Boots
+Diamond Sword
+Diamond Pickaxe
+Diamond Axe
+Diamond Shovel
+Diamond Hoe
+Diamond Helmet
+Diamond Chestplate
+Diamond Leggings
+Diamond Boots
+Netherite Sword
+Netherite Pickaxe
+Netherite Axe
+Netherite Shovel
+Netherite Hoe
+Netherite Helmet
+Netherite Chestplate
+Netherite Leggings
+Netherite Boots
+Wooden Sword
+Wooden Pickaxe
+Wooden Axe
+Wooden Shovel
+Wooden Hoe
+Stone Sword
+Stone Pickaxe
+Stone Axe
+Stone Shovel
+Stone Hoe
+Golden Horse Armor
+Iron Horse Armor
+Diamond Horse Armor
+Crafting Table
+Furnace
+Blast Furnace
+Smoker
+Chest
+Trapped Chest
+Barrel
+Hopper
+Anvil
+Chipped Anvil
+Damaged Anvil
+Brewing Stand
+Cauldron
+Composter
+Smithing Table
+Fletching Table
+Cartography Table
+Loom
+Grindstone
+Stonecutter
+Lectern
+Respawn Anchor
+Lodestone
+Ender Chest
+Armor Stand
+Item Frame
+Painting
+Torch
+Soul Torch
+Lantern
+Soul Lantern
+Campfire
+Soul Campfire
+Chain
+Iron Bars
+Iron Door
+Iron Trapdoor
+Heavy Weighted Pressure Plate
+Light Weighted Pressure Plate
+Lever
+Stone Button
+Stone Pressure Plate
+Polished Blackstone Button
+Polished Blackstone Pressure Plate
+Tripwire Hook
+Dispenser
+Dropper
+Piston
+Sticky Piston
+Observer
+Comparator
+Daylight Detector
+Target
+Clock
+Bucket
+Lava Bucket
+Bowl
+Mushroom Stew
+Fishing Rod
+Carrot on a Stick
+Warped Fungus on a Stick
+Shield
+Shears
+Iron Nugget
+Gold Nugget
+Iron Block
+Gold Block
+Diamond Block
+Bone Block
+Coal Block
+Quartz Block
+Glowstone
+Magma Block
+Netherite Upgrade Smithing Template
+Snout Armor Trim Smithing Template
+Pigstep Music Disc
+Snout Banner Pattern
+Banner
+White Banner
+Black Banner
+Gray Banner
+Light Gray Banner
+Brown Banner
+Pink Banner
+Magenta Banner
+Purple Banner
+Blue Banner
+Light Blue Banner
+Cyan Banner
+Green Banner
+Lime Banner
+Yellow Banner
+Orange Banner
+Red Banner
+Dried Ghast
+Harness
+Music Disc Tears
 
