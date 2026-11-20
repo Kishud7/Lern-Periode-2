@@ -85,3 +85,20 @@ Das Ziel ist es, einen Randomizer zu entwickeln, der alle Minecraft-Items aus de
 
 ## Hausaufgaben 20.11.2026
 - [x] Heute habe ich alle Nether-Items mithilfe einer Website hinzugefügt. Das kann nach wenig Arbeit aussehen, aber ich musste jedes einzelne Item überprüfen und manuell aufschreiben, weil die KI bei solchen Aufgaben häufig Fehler macht.
+
+## 20.11.2026
+Heute habe ich ...
+
+- [x] alle Nether-Items in eine .txt-Datei eingefügt.
+
+- [x] alle Nether-Items nach den Schwierigkeitsgraden Easy, Medium und Hard sortiert und in separaten .txt-Dateien gespeichert.
+
+- [x] alle End-Items in eine .txt-Datei eingefügt.
+
+- [x] alle End-Items nach den Schwierigkeitsgraden Easy, Medium und Hard sortiert und in separaten .txt-Dateien gespeichert.
+
+## Auf 27.11.2026 (Inklusive Hausaufgaben)
+
+- [ ] Nether-Items und deren Schwierigkeitsgrade in den Code integrieren. (2 Arbeitspakete)
+- [ ] End-Items und deren Schwierigkeitsgrade in den Code integrieren. (2 Arbeitspakete)
+- [ ] Den Generator optisch schöner und übersichtlicher gestalten. (1 Arbeitspaket)
