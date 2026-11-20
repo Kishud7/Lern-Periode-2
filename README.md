@@ -82,3 +82,6 @@ Das Ziel ist es, einen Randomizer zu entwickeln, der alle Minecraft-Items aus de
 - [ ] Ich möchte die Nether-Hard-Items hinzufügen.
 
 - [ ] Ich möchte die Nether-Random-Items hinzufügen.
+
+## Hausaufgaben 20.11.2026
+- [x] Heute habe ich alle Nether-Items mithilfe einer Website hinzugefügt. Das kann nach wenig Arbeit aussehen, aber ich musste jedes einzelne Item überprüfen und manuell aufschreiben, weil die KI bei solchen Aufgaben häufig Fehler macht.
