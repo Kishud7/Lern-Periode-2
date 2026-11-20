@@ -1,0 +1,41 @@
+End Rod
+Shulker Shell
+Shulker Box
+Ender Chest
+Chest
+Item Frame
+Arrow
+Spectral Arrow
+Diamond
+Iron Ingot
+Gold Ingot
+Emerald
+Beetroot Seeds
+Saddle
+Diamond Sword
+Diamond Pickaxe
+Diamond Shovel
+Diamond Axe
+Diamond Hoe
+Diamond Helmet
+Diamond Chestplate
+Diamond Leggings
+Diamond Boots
+Iron Sword
+Iron Pickaxe
+Iron Shovel
+Iron Axe
+Iron Hoe
+Iron Helmet
+Iron Chestplate
+Iron Leggings
+Iron Boots
+Golden Sword
+Golden Pickaxe
+Golden Shovel
+Golden Axe
+Golden Hoe
+Golden Helmet
+Golden Chestplate
+Golden Leggings
+Golden Boots

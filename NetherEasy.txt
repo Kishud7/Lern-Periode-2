@@ -1,0 +1,105 @@
+Netherrack
+Soul Sand
+Soul Soil
+Gravel
+Blackstone
+Basalt
+Polished Basalt
+Smooth Basalt
+Magma Block
+Glowstone
+Glowstone Dust
+Nether Gold Ore
+Nether Quartz Ore
+Gold Nugget
+Gold Ingot
+Nether Quartz
+Quartz Block
+Smooth Quartz Block
+Quartz Bricks
+Quartz Pillar
+Chiseled Quartz Block
+Quartz Slab
+Quartz Stairs
+Smooth Quartz Slab
+Smooth Quartz Stairs
+Crimson Nylium
+Warped Nylium
+Crimson Stem
+Warped Stem
+Stripped Crimson Stem
+Stripped Warped Stem
+Crimson Hyphae
+Warped Hyphae
+Stripped Crimson Hyphae
+Stripped Warped Hyphae
+Crimson Planks
+Warped Planks
+Crimson Slab
+Warped Slab
+Crimson Stairs
+Warped Stairs
+Crimson Fence
+Warped Fence
+Crimson Fence Gate
+Warped Fence Gate
+Crimson Door
+Warped Door
+Crimson Trapdoor
+Warped Trapdoor
+Crimson Button
+Warped Button
+Crimson Pressure Plate
+Warped Pressure Plate
+Crimson Sign
+Warped Sign
+Crimson Hanging Sign
+Warped Hanging Sign
+Crimson Roots
+Warped Roots
+Crimson Fungus
+Warped Fungus
+Nether Sprouts
+Weeping Vines
+Twisting Vines
+Shroomlight
+Red Mushroom
+Brown Mushroom
+Blackstone Slab
+Blackstone Stairs
+Blackstone Wall
+Polished Blackstone
+Polished Blackstone Slab
+Polished Blackstone Stairs
+Polished Blackstone Wall
+Polished Blackstone Bricks
+Polished Blackstone Brick Slab
+Polished Blackstone Brick Stairs
+Polished Blackstone Brick Wall
+Cracked Polished Blackstone Bricks
+Chiseled Polished Blackstone
+Polished Blackstone Button
+Polished Blackstone Pressure Plate
+Wooden Sword
+Wooden Pickaxe
+Wooden Axe
+Wooden Shovel
+Wooden Hoe
+Stone Sword
+Stone Pickaxe
+Stone Axe
+Stone Shovel
+Stone Hoe
+Crafting Table
+Furnace
+Chest
+Barrel
+Composter
+Loom
+Torch
+Soul Torch
+Campfire
+Soul Campfire
+Lever
+Bowl
+Mushroom Stew

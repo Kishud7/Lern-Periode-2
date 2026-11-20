@@ -1,0 +1,111 @@
+Gilded Blackstone
+Bone Block
+Gold Block
+Iron Nugget
+Iron Ingot
+Iron Block
+Coal
+Nether Wart
+Nether Wart Block
+Warped Wart Block
+Nether Bricks
+Nether Brick
+Red Nether Bricks
+Cracked Nether Bricks
+Chiseled Nether Bricks
+Nether Brick Slab
+Nether Brick Stairs
+Nether Brick Wall
+Nether Brick Fence
+Red Nether Brick Slab
+Red Nether Brick Stairs
+Red Nether Brick Wall
+Bone
+Bone Meal
+Arrow
+Spectral Arrow
+Bow
+Crossbow
+String
+Leather
+Rotten Flesh
+Raw Porkchop
+Cooked Porkchop
+Raw Chicken
+Cooked Chicken
+Feather
+Blaze Rod
+Blaze Powder
+Ghast Tear
+Gunpowder
+Magma Cream
+Ender Pearl
+Eye of Ender
+Obsidian
+Crying Obsidian
+Flint
+Flint and Steel
+Fire Charge
+Saddle
+Glass Bottle
+Water Bottle
+Potion of Fire Resistance
+Splash Potion of Fire Resistance
+Enchanted Book
+Soul Speed Enchanted Book
+Golden Sword
+Golden Pickaxe
+Golden Axe
+Golden Shovel
+Golden Hoe
+Golden Helmet
+Golden Chestplate
+Golden Leggings
+Golden Boots
+Iron Sword
+Iron Pickaxe
+Iron Axe
+Iron Shovel
+Iron Hoe
+Iron Helmet
+Iron Chestplate
+Iron Leggings
+Iron Boots
+Smoker
+Trapped Chest
+Hopper
+Brewing Stand
+Cauldron
+Smithing Table
+Fletching Table
+Respawn Anchor
+Item Frame
+Painting
+Lantern
+Soul Lantern
+Chain
+Iron Bars
+Iron Door
+Iron Trapdoor
+Heavy Weighted Pressure Plate
+Light Weighted Pressure Plate
+Tripwire Hook
+Clock
+Bucket
+Lava Bucket
+Fishing Rod
+Warped Fungus on a Stick
+Shield
+Shears
+Coal Block
+Harness
+White Banner
+Black Banner
+Gray Banner
+Light Gray Banner
+Banner
+Red Mushroom Block
+Brown Mushroom Block
+Mushroom Stem
+Golden Carrot
+Golden Apple

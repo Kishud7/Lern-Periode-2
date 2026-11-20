@@ -1,0 +1,17 @@
+End Stone
+End Stone Bricks
+End Stone Brick Slab
+End Stone Brick Stairs
+End Stone Brick Wall
+Chorus Plant
+Chorus Flower
+Chorus Fruit
+Popped Chorus Fruit
+Purpur Block
+Purpur Pillar
+Purpur Slab
+Purpur Stairs
+Ender Pearl
+Obsidian
+Torch
+Iron Bars

@@ -1,3 +1,97 @@
 Elytra
 Chorus Fruit
 Popped Chorus Fruit
+Dragon's Breath
+Shulker Shell
+Dragon Egg
+Spire Armor Trim
+
+End Stone
+End Stone Bricks
+End Stone Brick Slab
+End Stone Brick Stairs
+End Stone Brick Wall
+Purpur Block
+Purpur Pillar
+Purpur Slab
+Purpur Stairs
+Chorus Plant
+Chorus Flower
+Chorus Fruit
+Popped Chorus Fruit
+End Rod
+Dragon Head
+Dragon Egg
+Dragon's Breath
+Elytra
+Shulker Shell
+Shulker Box
+Ender Pearl
+Ender Chest
+Obsidian
+End Crystal
+Bedrock
+End Gateway
+End Portal
+End Portal Frame
+Iron Bars
+Torch
+Chest
+Item Frame
+Dragon Fireball
+Arrow
+Spectral Arrow
+Diamond
+Iron Ingot
+Gold Ingot
+Emerald
+Beetroot Seeds
+Saddle
+Diamond Sword
+Diamond Pickaxe
+Diamond Shovel
+Diamond Axe
+Diamond Hoe
+Diamond Helmet
+Diamond Chestplate
+Diamond Leggings
+Diamond Boots
+Iron Sword
+Iron Pickaxe
+Iron Shovel
+Iron Axe
+Iron Hoe
+Iron Helmet
+Iron Chestplate
+Iron Leggings
+Iron Boots
+Golden Sword
+Golden Pickaxe
+Golden Shovel
+Golden Axe
+Golden Hoe
+Golden Helmet
+Golden Chestplate
+Golden Leggings
+Golden Boots
+Enchanted Diamond Sword
+Enchanted Diamond Pickaxe
+Enchanted Diamond Shovel
+Enchanted Diamond Axe
+Enchanted Diamond Helmet
+Enchanted Diamond Chestplate
+Enchanted Diamond Leggings
+Enchanted Diamond Boots
+Enchanted Iron Sword
+Enchanted Iron Pickaxe
+Enchanted Iron Shovel
+Enchanted Iron Helmet
+Enchanted Iron Chestplate
+Enchanted Iron Leggings
+Enchanted Iron Boots
+Enchanted Golden Sword
+Enchanted Golden Helmet
+Enchanted Golden Chestplate
+Enchanted Golden Leggings
+Enchanted Golden Boots
+Spire Armor Trim Smithing Template

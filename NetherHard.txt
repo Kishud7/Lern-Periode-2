@@ -1,0 +1,45 @@
+Ancient Debris
+Netherite Scrap
+Netherite Ingot
+Netherite Block
+Diamond
+Diamond Block
+Nether Star
+Wither Skeleton Skull
+Enchanted Golden Apple
+Netherite Upgrade Smithing Template
+Snout Armor Trim Smithing Template
+Pigstep Music Disc
+Music Disc Tears
+Dried Ghast
+Lodestone
+Ender Chest
+Anvil
+Chipped Anvil
+Damaged Anvil
+Netherite Sword
+Netherite Pickaxe
+Netherite Axe
+Netherite Shovel
+Netherite Hoe
+Netherite Helmet
+Netherite Chestplate
+Netherite Leggings
+Netherite Boots
+Diamond Sword
+Diamond Pickaxe
+Diamond Axe
+Diamond Shovel
+Diamond Hoe
+Diamond Helmet
+Diamond Chestplate
+Diamond Leggings
+Diamond Boots
+Iron Horse Armor
+Diamond Horse Armor
+Golden Horse Armor
+Snout Banner Pattern
+Gold Block
+Netherite Block
+Wither Skeleton Skull
+Nether Star
