@@ -97,6 +97,10 @@ if (gamemode == 1)
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
             Console.WriteLine("Easy:");
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
+            string[] SurvivalNetherEasy = File.ReadAllLines("NetherEasy.txt");
+            Random random = new Random();
+            int num = random.Next(0, SurvivalNetherEasy.Length);
+            Console.WriteLine("Your random item is: " + SurvivalNetherEasy[num]);
         }
 
         if (NetherDifficulty == 2)
