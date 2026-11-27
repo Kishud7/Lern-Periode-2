@@ -106,3 +106,13 @@ Heute habe ich ...
 ## Hausaufgaben 27.11.2026
 
 - [x] Heute habe ich die Schwierigkeit Easy für den Nether in meinen Code eingebaut. Dafür habe ich die Datei NetherEasy.txt hinzugefügt. Am Anfang gab es noch ein Problem mit der Datei, das ich aber nachher lösen konnte.
+
+## 27.11.2026
+- [x] Nether-Items mit den Schwierigkeitsgraden Easy, Medium und Hard sowie der Option für eine direkte zufällige Item-Auswahl in den Code integriert.
+- [x] End-Items mit den Schwierigkeitsgraden Easy, Medium und Hard sowie der Option für eine direkte zufällige Item-Auswahl in den Code integriert.
+
+## Auf 4.12.2026
+- [ ] Eine Zurück-Funktion mit der Taste 0 einbauen, damit man zum vorherigen Menü zurückkehren kann.
+- [ ] Den Code übersichtlicher gestalten und besser strukturieren.
+- [ ] Kommentare im Code hinzufügen, damit man die einzelnen Funktionen besser versteht.
+- [ ] Alle neuen Minecraft Items aus dem Ice Drop hinzufügen und den Schwierigkeitsgraden zuordnen.
