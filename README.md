@@ -102,3 +102,7 @@ Heute habe ich ...
 - [ ] Nether-Items und deren Schwierigkeitsgrade in den Code integrieren. (2 Arbeitspakete)
 - [ ] End-Items und deren Schwierigkeitsgrade in den Code integrieren. (2 Arbeitspakete)
 - [ ] Den Generator optisch schöner und übersichtlicher gestalten. (1 Arbeitspaket)
+
+## Hausaufgaben 27.11.2026
+
+- [x] Heute habe ich die Schwierigkeit Easy für den Nether in meinen Code eingebaut. Dafür habe ich die Datei NetherEasy.txt hinzugefügt. Am Anfang gab es noch ein Problem mit der Datei, das ich aber nachher lösen konnte.
