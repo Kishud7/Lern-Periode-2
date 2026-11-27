@@ -108,6 +108,10 @@ if (gamemode == 1)
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
             Console.WriteLine("Medium:");
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
+            string[] SurvivalNetherMedium = File.ReadAllLines("NetherMedium.txt");
+            Random random = new Random();
+            int num = random.Next(0, SurvivalNetherMedium.Length);
+            Console.WriteLine("Your random item is: " + SurvivalNetherMedium[num]);
         }
 
         if (NetherDifficulty == 3)
@@ -115,6 +119,10 @@ if (gamemode == 1)
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
             Console.WriteLine("Hard:");
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
+            string[] SurvivalNetherHard = File.ReadAllLines("NetherHard.txt");
+            Random random = new Random();
+            int num = random.Next(0, SurvivalNetherHard.Length);
+            Console.WriteLine("Your random item is: " + SurvivalNetherHard[num]);
         }
 
         if (NetherDifficulty == 4)
@@ -147,6 +155,10 @@ if (gamemode == 1)
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
             Console.WriteLine("Easy:");
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
+            string[] SurvivalEndEasy = File.ReadAllLines("EndEasy.txt");
+            Random random = new Random();
+            int num = random.Next(0, SurvivalEndEasy.Length);
+            Console.WriteLine("Your random item is: " + SurvivalEndEasy[num]);
         }
 
         if (EndDifficulty == 2)
@@ -154,6 +166,10 @@ if (gamemode == 1)
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
             Console.WriteLine("Medium:");
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
+            string[] SurvivalEndMedium = File.ReadAllLines("EndMedium.txt");
+            Random random = new Random();
+            int num = random.Next(0, SurvivalEndMedium.Length);
+            Console.WriteLine("Your random item is: " + SurvivalEndMedium[num]);
         }
 
         if (EndDifficulty == 3)
@@ -161,6 +177,10 @@ if (gamemode == 1)
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
             Console.WriteLine("Hard:");
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
+            string[] SurvivalEndHard = File.ReadAllLines("EndHard.txt");
+            Random random = new Random();
+            int num = random.Next(0, SurvivalEndHard.Length);
+            Console.WriteLine("Your random item is: " + SurvivalEndHard[num]);
         }
 
         if (EndDifficulty == 4)
@@ -189,7 +209,8 @@ if (gamemode == 1)
         {
             Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
             Console.WriteLine("Random:");
-            Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------"); string[] CreativeRandom = File.ReadAllLines("CreativeItems.txt");
+            Console.WriteLine("-------------------------------------------------------------------------------------------------------------------------------------");
+            string[] CreativeRandom = File.ReadAllLines("CreativeItems.txt");
             Random random = new Random();
             int num = random.Next(0, CreativeRandom.Length);
             Console.WriteLine("Your random item is: " + CreativeRandom[num]);
